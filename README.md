@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <div align="center">
       <a href='https://github.com/JIN-RYEOL'>
         <img src="https://github-readme-stats.vercel.app/api?username=JIN-RYEOL&show_icons=true&theme=gruvbox_light" height="150"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehyeon123&layout=compact&theme=gruvbox_light&langs_count=6"                   height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIN-RYEOL&layout=compact&theme=gruvbox_light&langs_count=6"                   height="150"/>
        </a>
     </div>    
 <br> 
