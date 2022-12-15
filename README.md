@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JIN-RYEOL/JIN-RYEOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- <br> 
     <div align="center";>
-        <img src="https://img.shields.io/badge/gmail-007396?style=flat-square&logo=Gmail&logoColor=#EA4335">
+        <img src="https://img.shields.io/badge/gmail-007396?style=flat-square&logo=Gmail&logoColor=#a2fc81">
         <p>harry7141@gmail.com</p>
     </div>  
 <br>
