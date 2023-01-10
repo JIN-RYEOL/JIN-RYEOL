@@ -36,8 +36,8 @@ Here are some ideas to get you started:
     <h3 align="center"> GitHub Stats </h3> 
     <div align="center">
       <a href='https://github.com/JIN-RYEOL'>
-        <img style="height:150px; width:250px;" src="https://github-readme-stats.vercel.app/api?username=JIN-RYEOL&show_icons=true&theme=gruvbox_light" />
-        <img style="height:150px; width:270px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIN-RYEOL&layout=compact&theme=gruvbox_light&langs_count=6" />
+        <img style="height:180px; width:250px;" src="https://github-readme-stats.vercel.app/api?username=JIN-RYEOL&show_icons=true&theme=gruvbox_light" />
+        <img style="height:200px; width:250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIN-RYEOL&layout=compact&theme=gruvbox_light&langs_count=6" />
        </a>
     </div>    
 <br> 
